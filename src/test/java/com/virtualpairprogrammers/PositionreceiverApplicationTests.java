@@ -14,7 +14,7 @@ public class PositionreceiverApplicationTests {
 	  assertEquals("10 x 5 must be 50", 50, 50);
 	}
 	
-	//comment to poll SCM
+	//comment to poll 
 	//another comment
 
 }
