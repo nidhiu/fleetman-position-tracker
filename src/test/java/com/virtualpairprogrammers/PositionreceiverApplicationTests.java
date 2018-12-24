@@ -10,6 +10,7 @@ public class PositionreceiverApplicationTests {
 
 	@Test
 	public void contextLoads() {
+          String a ="test";
 	  assertEquals("10 x 5 must be 50", 50, 50);
 	}
 	
